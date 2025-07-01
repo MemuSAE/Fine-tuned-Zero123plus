@@ -1,0 +1,8 @@
+gradio
+diffusers
+transformers
+torch
+xformers
+clip-anytorch
+pillow
+pandas
